@@ -1,3 +1,17 @@
+/*Hide unnecessary question labels*/
 .JFEScope .Skin .q-slider .statement-container {
   display: none;
+}
+
+/*Add padding to top of questions*/
+.Skin label.QuestionText {
+  padding-top: 40px;
+}
+.Skin .QuestionText {
+  padding-top: 40px;
+}
+
+/*Change slider dot color*/
+.Skin .horizontalbar .Slider .track div {
+  background: green;
 }
