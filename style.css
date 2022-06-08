@@ -5,10 +5,10 @@
 
 /*Add padding to top of questions*/
 .Skin label.QuestionText {
-  padding-top: 40px;
+  padding-top: 30px;
 }
 .Skin .QuestionText {
-  padding-top: 40px;
+  padding-top: 30px;
 }
 
 /*Change slider dot color*/
