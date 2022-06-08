@@ -15,3 +15,8 @@
 .Skin .horizontalbar .Slider .track div {
   background: green;
 }
+
+/*Change button color*/
+.Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton {
+  background-color: green;
+}
