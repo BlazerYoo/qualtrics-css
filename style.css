@@ -20,3 +20,15 @@
 .Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton {
   background-color: green;
 }
+
+/*Center heading*/
+.consent-form-logo-img-span {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+/**/
