@@ -21,7 +21,7 @@
   background-color: green;
 }
 
-/*Center heading*/
+/*Center consent form heading*/
 .consent-form-logo-img-span {
   display: flex;
   flex-direction: row;
@@ -31,4 +31,13 @@
   align-items: center;
 }
 
-/**/
+/*Consent form font*/
+.consent-form {
+  font-family: auto;
+}
+
+/*Consent form heading text left padding*/
+.consent-form-logo-text {
+  padding-left: 5px;
+  
+}
