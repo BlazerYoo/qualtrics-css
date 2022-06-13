@@ -38,11 +38,15 @@
 
 /*Consent form heading text left padding*/
 .consent-form-logo-text {
-  padding-left: 5px;
-  
+  padding-left: 5px; 
 }
 
 /*Change PRINCETON UNIVERSITY text color*/
 .PRINCETON {
   color: #e77500;
+}
+
+/*Hide certain text*/
+.hide-text {
+  display: none;
 }
